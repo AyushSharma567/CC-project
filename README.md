@@ -1,3 +1,5 @@
+This project is a deployment of my [previous project](https://github.com/AyushSharma567/Travel-Companion) on an AWS instance. The main goal is to gain hands-on experience with AWS deployment and infrastructure management.
+
 ## Travel Companion 
 
 ## Overview
